@@ -1,0 +1,12 @@
+Airbus-A220
+Boeing-737
+Boeing-747
+Boeing-767
+Boeing-777
+Boeing-787-Dreamliner
+Ilyushin-Il-96
+Airbus-A330
+Airbus-A380
+Comac-ARJ21-Xiangfeng
+Embraer-ERJ-135
+Sukhoi-Superjet-SSJ100
